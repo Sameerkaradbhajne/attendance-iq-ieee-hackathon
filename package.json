@@ -1,0 +1,41 @@
+{
+  "name": "attendance-iq-ieee-hackathon",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Know your attendance. Predict your risk. Take control. An intelligent college attendance, recovery, exam eligibility, and WhatsApp communication platform.",
+  "type": "module",
+  "author": "Sameer Karadbhajne",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sameerkaradbhajne/attendance-iq-ieee-hackathon.git"
+  },
+  "keywords": [
+    "attendance-iq",
+    "attendance-system",
+    "ieee-hackathon",
+    "react",
+    "vite",
+    "qr-attendance",
+    "whatsapp-recovery",
+    "freedom-meter",
+    "edtech"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^1.52.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}
